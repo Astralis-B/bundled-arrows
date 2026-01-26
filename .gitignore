@@ -1,0 +1,85 @@
+# ============================================
+# MINECRAFT MOD DEVELOPMENT - GITIGNORE
+# ============================================
+
+# Build tools
+.gradle/
+build/
+out/
+bin/
+classes/
+generated/
+
+# Runtime directories
+run/
+logs/
+crash-reports/
+debug/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+.factorypath
+.nb-gradle/
+*.swp
+*.swo
+
+# Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.patch
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# Archivos específicos de Minecraft
+eula.txt
+launcher_profiles.json
+usercache.json
+usernamecache.json
+options.txt
+optionsof.txt
+servers.dat
+
+# Credenciales y configuraciones personales
+*.keystore
+*.jks
+*.properties
+credentials.json
+config/
+local.properties
+gradle.properties
+
+# Gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
+
+# Archivos temporales
+*.tmp
+*.temp
+*.cache
+
+# Otros
+replay*.mcpr
+screenshots/
+resources/
+dumps/
+hs_err_pid*.log
