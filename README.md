@@ -1,4 +1,5 @@
-# Bundled Arrows
+![#Bundled Arrows](https://cdn.modrinth.com/data/cached_images/ccea705c0bd5e1dd74eb1d893f7a9b5b509c168f.png)
+
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-green)
 ![Fabric](https://img.shields.io/badge/Modloader-Fabric-blue)
