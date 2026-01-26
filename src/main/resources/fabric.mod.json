@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "bundledarrows",
+	"version": "1.0.0",
+	"name": "Bundled Arrows",
+	"description": "Permite usar flechas almacenadas en bundles con arcos",
+	"authors": [
+		"Astralis"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
+	"license": "MIT",
+	"icon": "assets/bundledarrows/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.astralis.bundledarrows.BundledArrowsMod"
+		]
+	},
+	"mixins": [
+		"bundledarrows.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.2",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
