@@ -29,7 +29,7 @@ Use arrows stored in bundles with your bow and crossbow! Never run out of arrows
 
 1. Install [Fabric Loader](https://fabricmc.net/use/)
 2. Install [Fabric API](https://modrinth.com/mod/fabric-api)
-3. Download Bundle Arrows mod
+3. Download Bundled Arrows mod
 4. Place the JAR file in your `.minecraft/mods/` folder
 
 ## 🎮 How to Use
