@@ -1,13 +1,4 @@
 ---
-name: "\U0001F4A1 Feature Request"
-about: Suggest an idea for Bundled Arrows
-title: "[FEATURE]"
-labels: ''
-assignees: ''
-
----
-
----
 name: 💡 Feature Request
 about: Suggest an idea for Bundled Arrows
 title: '[FEATURE] '
