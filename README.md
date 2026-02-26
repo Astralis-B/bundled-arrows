@@ -1,5 +1,4 @@
-![#Bundled Arrows](https://cdn.modrinth.com/data/cached_images/ccea705c0bd5e1dd74eb1d893f7a9b5b509c168f.png)
-
+![#Bundled Arrows](https://cdn.modrinth.com/data/cached_images/86034e1415155f21695678d8b7cdcac226ff9a85.png)
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-green)
 ![Fabric](https://img.shields.io/badge/Modloader-Fabric-blue)
@@ -29,7 +28,7 @@ Use arrows stored in bundles with your bow and crossbow! Never run out of arrows
 
 1. Install [Fabric Loader](https://fabricmc.net/use/)
 2. Install [Fabric API](https://modrinth.com/mod/fabric-api)
-3. Download Bundled Arrows mod
+3. Download [Bundled Arrows](https://modrinth.com/mod/bundled-arrows/versions)
 4. Place the JAR file in your `.minecraft/mods/` folder
 
 ## 🎮 How to Use
